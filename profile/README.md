@@ -1,0 +1,3 @@
+   **Matryoshka Paradigms LLC** (Oregon) publishes **Business Frameworks** — operating judgement for running a business from launch to about $50M in revenue, written by [Joseph McHenry](https://matryoshkaparadigms.com/author) for the agents that run or advise such businesses and for the people who run those agents. The free top layer is on [the dataset card](https://huggingface.co/datasets/Matryoshka-Paradigms/business-frameworks); deeper nodes are sold per node over x402 at [the endpoint](https://business-frameworks.matryoshka-paradigms.workers.dev/catalogue); coding agents install [the Agent Skill](https://github.com/matryoshka-paradigms/business-frameworks).
+
+   Organization page: https://matryoshkaparadigms.com/ · Author page: https://matryoshkaparadigms.com/author
